@@ -1,0 +1,1 @@
+export const gray = "rgb(248, 236, 236)";
